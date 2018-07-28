@@ -1,0 +1,36 @@
+[33mcommit 640fa4aebf282da93fdd406657c0b4175b612a27[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 532f1e3 be8b3a3
+Author: EC2 Default User <ec2-user@ip-172-31-89-132.ec2.internal>
+Date:   Sat Jul 28 11:30:31 2018 +0000
+
+    merge test and master in 3 ways
+
+[33mcommit 532f1e362dbf1834b29df07a77f3ed05534bc8fe[m
+Author: EC2 Default User <ec2-user@ip-172-31-89-132.ec2.internal>
+Date:   Sat Jul 28 11:27:16 2018 +0000
+
+    im master
+
+[33mcommit be8b3a3204021e86ed80dbf29762a7f059459447[m[33m ([m[1;32mtest[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-89-132.ec2.internal>
+Date:   Sat Jul 28 11:25:11 2018 +0000
+
+    3 way merge
+
+[33mcommit 6f921aac35646320a5e8b41bbe02f42c9ccd79c2[m
+Author: EC2 Default User <ec2-user@ip-172-31-89-132.ec2.internal>
+Date:   Sat Jul 28 11:16:25 2018 +0000
+
+    test branch
+
+[33mcommit 136f267da379e45bae51c5dc4d40a9643a99fde4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-89-132.ec2.internal>
+Date:   Sat Jul 28 11:09:01 2018 +0000
+
+    msg
+
+[33mcommit ba56ec127b0c9a7a4e0cc504ada1617c53de9c05[m
+Author: EC2 Default User <ec2-user@ip-172-31-89-132.ec2.internal>
+Date:   Sat Jul 28 11:02:54 2018 +0000
+
+    msg
